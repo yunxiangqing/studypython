@@ -1,2 +1,2 @@
-# study_python
+# studypython
 学习python
