@@ -1,0 +1,10 @@
+# 转义字符
+print("hello\nworld")
+print("hello\tworld")
+print("helloooo\tworld")
+print("hello\rworld")
+print("hello\bworld")
+print("老师说:'大家好'")
+print(r"hello\nworld")
+# print('helloworld\')
+print("helloworld\\")
